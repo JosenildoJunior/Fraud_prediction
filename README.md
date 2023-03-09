@@ -7,3 +7,4 @@ Para esse projeto de Data Science as seguintes etapas foram seguidas:
 * Análise Exploratória dos dados
 * Pré-processamento dos dados
 * Modelos de Machine Learning
+* Avaliação do modelo
