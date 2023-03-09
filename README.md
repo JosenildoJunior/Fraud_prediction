@@ -1,4 +1,4 @@
-Modelo de Machine Learning para previsão de transações fraudulentas
+# Modelo de Machine Learning para previsão de transações fraudulentas
 O objetivo desse projeto é construir um modelo de Machine Learning para identificar possíveis transações de cartão de crédito fraudulentas.
 
 Para esse projeto de Data Science as seguintes etapas foram seguidas:
