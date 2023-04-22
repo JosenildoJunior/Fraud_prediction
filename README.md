@@ -1,5 +1,5 @@
-# Modelo de Machine Learning para aprovação de empréstimos
-O objetivo desse projeto é construir um modelo de Machine Learning para decidir se um novo empréstimo poderá ser feito.
+# Modelo de Machine Learning para identificação de transações fraudulentas
+O objetivo desse projeto é construir um modelo de Machine Learning para identificar transações fraudulentas.
 
 Para esse projeto de Data Science as seguintes etapas foram seguidas:
 
