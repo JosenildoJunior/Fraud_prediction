@@ -10,4 +10,4 @@ Para esse projeto de Data Science as seguintes etapas foram seguidas:
 * Modelos de Machine Learning
 * Avaliação do modelo
 
-**Aqui está o link do projeto:**
+**Aqui está o link do projeto:** https://github.com/JosenildoJunior/Fraud_prediction/blob/main/CreditCard_fraud_detection.ipynb
