@@ -1,7 +1,9 @@
-# Modelo de Machine Learning para identificação de transações fraudulentas
-O objetivo desse projeto é construir um modelo de Machine Learning para identificar transações fraudulentas.
+# Detecção de Transações Fraudulentas com Modelo de Aprendizado de Máquina
+## Objetivo
+O propósito central deste projeto é desenvolver um modelo de Aprendizado de Máquina que possa detectar transações fraudulentas com alta precisão.
 
-Para esse projeto de Data Science as seguintes etapas foram seguidas:
+## Etapas do Projeto
+Ao longo deste projeto de Ciência de Dados, seguimos as seguintes etapas:
 
 * Entendimento do problema
 * Obtenção dos dados
@@ -10,4 +12,7 @@ Para esse projeto de Data Science as seguintes etapas foram seguidas:
 * Modelos de Machine Learning
 * Avaliação do modelo
 
-**Aqui está o link do projeto:** [CreditCard_fraud_detection](https://github.com/JosenildoJunior/Fraud_prediction/blob/main/CreditCard_fraud_detection.ipynb)
+**Confira o projeto completo [aqui](https://github.com/JosenildoJunior/Fraud_prediction/blob/main/CreditCard_fraud_detection.ipynb)**.
+
+Sinta-se à vontade para fornecer feedback, sugestões ou compartilhar insights.
+
